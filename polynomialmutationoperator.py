@@ -1,3 +1,4 @@
+# paper : Deb and Agrawal 1995; Raghuwanshi and Kakde 2004.
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
