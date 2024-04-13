@@ -19,7 +19,7 @@ def gradient_descent(start, end, n, alpha):
 		x_values.append(x)
 		y_values.append(f(x))
 		print('#%d f(%s) = %s' % (i, x, f(x)))
-	return [x_value, y_values]
+	return [x_values, y_values]
 
 if __name__ == '__main__' :
 	solutions, scores = gradient_descent(-1, 1, 50, 0.1)
